@@ -110,7 +110,7 @@ Based on the insights:
 
 A live, publicly accessible version of this dashboard is available via Power BI Service:
 
-👉 Live Dashboard: https://app.powerbi.com/groups/me/reports/255ac0cf-080e-4926-8be4-9447cad2d844/dc3e8428e1b4d100867d?experience=power-bi
+👉 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNzRhY2NlYzctOTdhZi00ODE1LWIxNmItY2ZmZGQyZDZhNmRmIiwidCI6ImI0OGRmYWViLWYyNzMtNGJiNC1hNGZhLWVjZGU5YjRmNjQwMyJ9
 
 
 ---
